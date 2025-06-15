@@ -22,7 +22,7 @@ The encryption applies the following reversible transformation to each pixel:
 (R, G, B) → (255 - R, 255 - G, 255 - B)
 
 Installation
-git clone https://github.com/your-username/PRODIGY_CS_02.git
+git clone https://github.com/Akshay-kallada/PRODIGY_CS_02.git
 cd PRODIGY_CS_02
 
 Install dependencies:
